@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cwplus_paymentpermonth</name>
+	<displayName><![CDATA[Cwplus payment per month]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[It\'s using for payment per month]]></description>
+	<author><![CDATA[Khalid EL HAKYM <www.cwplus.be>]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall "Cwplus payment per month" module ?]]></confirmUninstall>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
